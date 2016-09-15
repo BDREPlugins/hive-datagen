@@ -88,7 +88,8 @@
 			}
 		},
 		"uiWar": {
-			"location": "files/webapp/dg-md-ui-1.1-SNAPSHOT.war"
+			"location": "files/webapp/dg-md-ui-1.1-SNAPSHOT.war",
+			"localizationFile":"WEB-INF/classes/messages_en.properties"
 
 		},
 		"restWar": {
